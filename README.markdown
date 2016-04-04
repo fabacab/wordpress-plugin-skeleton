@@ -5,7 +5,8 @@ This repository contains a simple, opinionated scaffold for new WordPress plugin
 * Object-oriented plugin code with working activation, deactivation, initialization, and uninstallation routines.
 * Extra bundled helper plugins (like [WP Screen Help Loader](https://wordpress.org/plugins/wp-screen-help-loader/)) ready to be used out-of-the-box.
 * Thoroughly commented [phpDocumentor](http://phpdoc.org/) docblocks and developer tool files like `phpdoc.dist.xml`, `.gitignore`, and `.travis.yml` files (for [Travis-CI](https://travis-ci.org/) integration).
-* Customized `Plugin_UnitTestCase` class (which `extends WP_UnitTestCase`).
+* Customized `Plugin_UnitTestCase` class (which `extends WP_UnitTestCase`) for better issue tracker integration.
+* Sample configuration files for frequently used build toolchains (Bower, `npm`, Composer).
 
 Basically, you should be able to `cp -R wordpress-plugin-skeleton wp-content/plugins/YOUR_NEW_PLUGIN` and have more than just a "Hello world" example already working.
 

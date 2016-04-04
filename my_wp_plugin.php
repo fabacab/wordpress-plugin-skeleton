@@ -8,9 +8,9 @@
  * * Plugin URI: https://github.com/meitar/My_WP_Plugin
  * * Description: My Plugin Description
  * * Version: 0.1
- * * Author: My Name <my_email_address@example.com>
+ * * Author: My Name <my.email.address@example.com>
  * * Author URI: https://example.com/
- * * License: GPL-3
+ * * License: GPL-3.0
  * * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
  * * Text Domain: My_WP_Plugin
  * * Domain Path: /languages
