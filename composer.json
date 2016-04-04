@@ -1,7 +1,7 @@
 {
     "name": "my-name/my-wp-plugin",
     "description": "Here is a short description of the plugin.",
-    "homepage": "https://example.com/"
+    "homepage": "https://example.com/",
     "keywords": [
         "wordpress",
         "plugin"
@@ -20,5 +20,5 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^5.2"
-    },
+    }
 }
